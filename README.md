@@ -26,9 +26,9 @@ By implementing the Doctor-Patient Appointment System, healthcare institutions c
 5.	System Requirement Specification	
 6.	Language and Tools being used	
 7.	System Design	
-7.1	System Architecture    
-7.2	Database Schema        
-7.3	Data Flow Diagram    
+  7.1	System Architecture    
+  7.2	Database Schema        
+  7.3	Data Flow Diagram    
 8.	Testing 
 9.	Results and Discussion     
 10.	Conclusion & Future work   
